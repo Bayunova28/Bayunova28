@@ -1,7 +1,7 @@
 ## Hello 👋, I'm Willibrordus Bayu
 
 ### I'm an Information System Student at Multimedia Nusantara University
-- ✍️ You can find my projects in [Kaggle](https://www.kaggle.com/bayunova) and [RPubs](https://rpubs.com/willibrordus_bayu)
+- ✍️ You can find my projects in [Kaggle](https://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu) and [Tableau](https://public.tableau.com/app/profile/willibrordus.bayu)
 - 📊 I’m currently learning [Data Science](https://bayunova28.github.io/Data_Science_Portfolio/)
 - 🏢 I’m looking to collaborate on start-up business
 
