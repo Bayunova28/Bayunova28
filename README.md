@@ -1,4 +1,4 @@
-## Hello 👋, I'm Willibrordus Bayu
+## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Willibrordus Bayu
 
 ### I'm an Information System Student at Multimedia Nusantara University
 - ✍️ You can find my projects in [Kaggle](https://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu) and [Tableau](https://public.tableau.com/app/profile/willibrordus.bayu)
