@@ -3,7 +3,7 @@
 ### I'm an Information System Student at Multimedia Nusantara University
 - ✍️ You can find my projects in [Kaggle](https://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu) and [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)
 - 📈 I’m currently learning [Data Science](https://bayunova28.github.io/Data_Science_Portfolio/)
-- 🏢 I’m looking to collaborate on start-up business
+- 🏢 I’m looking to collaborate on Start-up Business and Tech Company
 
 ### Connect with me:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
