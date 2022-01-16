@@ -8,7 +8,7 @@
 ### Connect with me:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bayunova28 | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="willibayu28 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][E-mail]
+[<img align="left" alt="willibayu28 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -43,6 +43,6 @@
 
 </details>
 
-[E-mail]: https://www.willibayu28@gmail.com/
+[facebook]: https://www.facebook.com/bayunovapramudya/
 [instagram]: https://www.instagram.com/bayunova28/
 [linkedin]: https://www.linkedin.com/in/willibrordusbayu/
