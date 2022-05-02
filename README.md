@@ -1,45 +1,49 @@
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Willibrordus Bayu
+Hi 👋 My name is Willibrordus Bayu Nova Pramudya
+================================================
+An undergraduate student at Multimedia Nusantara University, Engineering and Informatics Faculty, majoring on Information System that has passionate about data
 
-### I'm an Information System Student at Multimedia Nusantara University
-- ✍️ You can find my projects at [Kaggle](https://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu) and [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)
-- 📈 I’m currently learning [Data Science](https://bayunova28.github.io/Data_Science_Portfolio/)
-- 🏢 I’m looking to collaborate on Start-Up Business and Tech Company
+* 🌍  I'm based in Indonesia
+* 🖥️  See my other portfolio at [kaggle](http://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu) & [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)
+* 📈  I'm learning Data Science
+* 🤝  I'm open to collaborating on data science projects
 
-### Connect with me:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bayunova28 | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Skills
 
-<br />
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+### Socials
 
-<br />
-
-<br />
-<br />
----
+[<img align="left" alt="holisitc_developer | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="bayunova28 | instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+</br>
+</br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bayunova28&show_icons=true&hide_border=true" />
-
+<a href="http://www.github.com/Bayunova28"><img src="https://github-readme-stats.vercel.app/api?username=Bayunova28&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Bayunova28's GitHub stats" /></a>
 </details>
+
+<details>
+  <summary>:zap: GitHub Contributions</summary>
+<a href="http://www.github.com/Bayunova28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayunova28&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</details>
+
+<details>
+  <summary>:zap: GitHub Commits</summary>
+<a href="http://www.github.com/Bayunova28"><img src="https://activity-graph.herokuapp.com/graph?username=Bayunova28&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</details> 
+
 <details>
   <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Willibrordus Bayu's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayunova28" />
-
-</details>
+<a href="https://github.com/Bayunova28" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayunova28&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</details> 
 
 [instagram]: https://www.instagram.com/bayunova28/
 [linkedin]: https://www.linkedin.com/in/willibrordusbayu/
