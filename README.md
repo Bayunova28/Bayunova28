@@ -3,7 +3,7 @@ Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/A
 An undergraduate student at Multimedia Nusantara University, Engineering and Informatics Faculty, majoring on Information System that has passionate about data
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my other portfolio at [kaggle](http://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu) & [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)
+* 🖥️  See my other portfolios at [kaggle](http://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu) & [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)
 * ✉️  You can contact me at [willibayu28@gmail.com](mailto:willibayu28@gmail.com)
 * 📈  I'm learning Data Science
 * 🤝  I'm open to collaborating on data science projects
