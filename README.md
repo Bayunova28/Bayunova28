@@ -1,6 +1,6 @@
 Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, My name is Willibrordus Bayu Nova Pramudya
 ================================================
-An undergraduate student at Multimedia Nusantara University, Engineering and Informatics Faculty, majoring on Information System who has strong skills in data mining, mathematics or statistics, machine learning and data visualization. 
+An undergraduate student at Multimedia Nusantara University, Engineering and Informatics Faculty, majoring on Information System who has strong skills in data mining, mathematics and statistics, machine learning along with data visualization. 
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my other portfolios at [kaggle](http://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu) & [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)
