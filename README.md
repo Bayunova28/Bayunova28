@@ -3,7 +3,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 An undergraduate student at Multimedia Nusantara University, Engineering and Informatics Faculty, majoring on Information System who has strong skills in data mining, mathematics and statistics, machine learning along with data visualization. 
 
 * 🖥️  See my other portfolios at [Kaggle](http://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu) & [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)
-* 🧠  I'm learning Data Science
+* 🧠  I'm learning Machine Learning, MySQL, PostgreSQL & MongoDB
 * 🤝  I'm open to collaborating on data science projects
 
 ### Skills
