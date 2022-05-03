@@ -4,7 +4,7 @@ An undergraduate student at Multimedia Nusantara University, Engineering and Inf
 
 * 🖥️  See my other portfolios at <b>[Kaggle](http://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu)</b> & <b>[Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)</b>
 * 🧠  I'm learning <b>Machine Learning, MySQL, PostgreSQL</b> & <b>MongoDB</b>
-* 🤝  I'm open to collaborating on data science projects
+* ✉️  You can contact me at <b>[willibayu28@gmail.com](mailto:willibayu28@gmail.com)</b>
 
 ### Skills
 
