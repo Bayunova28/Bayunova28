@@ -21,7 +21,7 @@ An undergraduate student at Multimedia Nusantara University, Engineering and Inf
 ### Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="36" height="36" alt="Linkedin" /></a>
+<a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="36" height="36" alt="Linkedin" /></a>
 <a href="https://www.instagram.com/bayunova28/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="36" height="36" alt="Instagram" /></a>
 </p> 
 
