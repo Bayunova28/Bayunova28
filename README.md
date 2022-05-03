@@ -20,10 +20,10 @@ An undergraduate student at Multimedia Nusantara University, Engineering and Inf
 
 ### Socials
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bayunova28 | instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</br>
-</br>
+<p align="left">
+<a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="36" height="36" alt="Linkedin" /></a>
+<a href="https://www.instagram.com/bayunova28/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="36" height="36" alt="Instagram" /></a>
+</p> 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -44,6 +44,3 @@ An undergraduate student at Multimedia Nusantara University, Engineering and Inf
   <summary>:zap: Most Used Languages</summary>
 <a href="https://github.com/Bayunova28" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayunova28&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </details> 
-
-[instagram]: https://www.instagram.com/bayunova28/
-[linkedin]: https://www.linkedin.com/in/willibrordusbayu/
