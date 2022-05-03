@@ -1,4 +1,4 @@
-Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, My name is Willibrordus Bayu Nova Pramudya
+Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, My name is Willibrordus Bayu Nova Pramudya
 ================================================
 An undergraduate student at Multimedia Nusantara University, Engineering and Informatics Faculty, majoring on Information System that has passionate about data
 
