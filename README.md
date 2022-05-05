@@ -2,8 +2,9 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 ================================================
 An undergraduate student at Multimedia Nusantara University, Engineering and Informatics Faculty, majoring on Information System who has strong skills in data mining, mathematics and statistics, machine learning along with data visualization. 
 
+* 🌍  I'm based in <b>West Java</b>
 * 🖥️  See my other portfolios at <b>[Kaggle](http://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu)</b> & <b>[Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)</b>
-* 🧠  I'm learning <b>Machine Learning, MySQL, PostgreSQL</b> & <b>MongoDB</b>
+* 🧠  I'm learning <b>Machine Learning, PySpark</b> & <b>MongoDB</b>
 * ✉️  You can contact me at <b>[willibayu28@gmail.com](mailto:willibayu28@gmail.com)</b>
 
 ### Skills
