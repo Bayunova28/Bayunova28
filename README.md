@@ -15,8 +15,9 @@ An undergraduate student at Multimedia Nusantara University, Engineering and Inf
 <a href="https://docs.microsoft.com/en-us/sql/sql-server/what-s-new-in-sql-server-2016?view=sql-server-ver15" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="36" height="36" alt="SQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>  
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-trademark.png" width="80" height="40" alt="CSS3" /></a>   
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://databricks.com/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/simple-icons/databricks.svg?color=red" width="36" height="36" alt="databricks" /></a>  
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/cib/apache-spark.svg?color=%23ff8000" width="36" height="36" alt="apache-spark" /></a>   
 </p>
 
 ### Socials
