@@ -1,4 +1,4 @@
-Hi, My Name is Willibrordus Bayu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, My Name is Willibrordus Bayu 
 ================================================
 <img src="https://github.com/Bayunova28/Bayunova28/blob/main/giphy.gif" alt="gif" width="1100" height="260">
 <p align="center">
@@ -35,7 +35,7 @@ Hi, My Name is Willibrordus Bayu <img src="https://github.com/TheDudeThatCode/Th
 <a href="https://rpubs.com/willibrordus_bayu" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/r-lang.svg?color=%2300d1ff" width="34" height="34" alt="R" /></a>
 <a href="https://public.tableau.com/app/profile/willibrordus.bayu" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/tableau-icon.svg?color=%2300d1ff" width="34" height="34" alt="Tableau" /></a>
 </p>
-<br>
+
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
 <a href="http://www.github.com/Bayunova28"><img src="https://github-readme-stats.vercel.app/api?username=Bayunova28&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Bayunova28's GitHub stats" /></a>
