@@ -2,7 +2,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 ================================================
 <img src="https://github.com/Bayunova28/Bayunova28/blob/main/giphy.gif" alt="gif" width="1100" height="260">
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%20Data+Mining%20|%20Machine+Learning%20|%20Statistics%20|%20Data+Visualization%20;&center=true&width=800&height=50"></a></p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%20Data+Mining%20|%20Machine+Learning%20|%20Statistics%20|%20Data+Visualization%20;&center=true&width=800&height=25"></a></p>
 
 ## About
 * 🌍  I'm based in <b>West Java</b>
