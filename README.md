@@ -1,10 +1,11 @@
 Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, My name is Willibrordus Bayu
 ================================================
-An undergraduate student at Multimedia Nusantara University, Engineering and Informatics Faculty, majoring on Information System who has strong skills in data mining, mathematics and statistics, machine learning along with data visualization. 
+<img src="https://github.com/Bayunova28/Bayunova28/blob/main/giphy.gif" alt="gif" width="1100" height="300">
+<p align="justify">An undergraduate student at Multimedia Nusantara University, Engineering and Informatics Faculty, majoring on Information System who has strong skills in data mining, mathematics and statistics, machine learning along with data visualization.<p> 
 
 * 🌍  I'm based in <b>West Java</b>
 * 🧠  I'm learning <b>SparkSQL, PySpark</b> & <b>RSpark</b>
-* 🤝  I'm open to collaborating on <b>data science</b> & <b>website development</b> projects  
+* 🤝  I’m looking to collaborate with any <b>Open - Source data science projects</b>
 
 ### Skills
 
