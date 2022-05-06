@@ -1,6 +1,6 @@
 Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, My name is Willibrordus Bayu
 ================================================
-<img src="https://github.com/Bayunova28/Bayunova28/blob/main/giphy.gif" alt="gif" width="1100" height="250">
+<img src="https://github.com/Bayunova28/Bayunova28/blob/main/giphy.gif" alt="gif" width="1100" height="260">
 <p align="justify">An undergraduate student at Multimedia Nusantara University, Engineering and Informatics Faculty, majoring on Information System who has strong skills in data mining, mathematics and statistics, machine learning along with data visualization.<p> 
 
 * 🌍  I'm based in <b>West Java</b>
