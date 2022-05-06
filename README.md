@@ -4,13 +4,13 @@ Hi, My Name is Willibrordus Bayu <img src="https://github.com/TheDudeThatCode/Th
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%20Data+Mining%20|%20Machine+Learning%20|%20Statistics%20|%20Data+Visualization%20;&center=true&width=800&height=50"></a></p>
 
-### About
+## About
 * 🌍  I'm based in <b>West Java</b>
 * 🧠 I'm learning <b>SparkSQL, PySpark</b> & <b>RSpark</b>
 * 🧑‍🎓 I'm an <b>Information System Student</b>
 * 🤝  I’m looking to collaborate with any <b>Open - Source data science projects</b>
 
-### Skills
+## Skills
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/file-icons/rstudio.svg?color=%23728fce" width="36" height="36" alt="R" /></a>
@@ -22,19 +22,20 @@ Hi, My Name is Willibrordus Bayu <img src="https://github.com/TheDudeThatCode/Th
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/cib/apache-spark.svg?color=%23ff8000" width="36" height="36" alt="apache-spark" /></a>   
 </p>
 
-### Socials
+## Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/linkedin-icon.svg" width="34" height="34" alt="Linkedin" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbgvKTdCWGPShLSSJqHlnShrvdsLwvjRXSwVbkFMTmRFfPXWxvndmTgvcSGnndZrXPsRXq" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/google-gmail.svg" width="34" height="34" alt="gmail" /></a>
 <a href="https://www.instagram.com/bayunova28/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="34" height="34" alt="Instagram" /></a>
 </p>
 
-### Portfolios
+## Portfolios
 <p align="left">
 <a href="http://www.kaggle.com/bayunova" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/cib/kaggle.svg?color=%2300d1ff" width="34" height="34" alt="Kaggle" /></a>
 <a href="https://rpubs.com/willibrordus_bayu" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/r-lang.svg?color=%2300d1ff" width="34" height="34" alt="R" /></a>
 <a href="https://public.tableau.com/app/profile/willibrordus.bayu" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/tableau-icon.svg?color=%2300d1ff" width="34" height="34" alt="Tableau" /></a>
 </p>
+<br>
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
 <a href="http://www.github.com/Bayunova28"><img src="https://github-readme-stats.vercel.app/api?username=Bayunova28&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Bayunova28's GitHub stats" /></a>
