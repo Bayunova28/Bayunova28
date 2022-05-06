@@ -23,7 +23,7 @@ An undergraduate student at Multimedia Nusantara University, Engineering and Inf
 
 <p align="left">
 <a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/linkedin-icon.svg" width="34" height="34" alt="Linkedin" /></a>
-<a (mailto:willibayu28@gmail.com) target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/google-gmail.svg" width="34" height="34" alt="gmail" /></a>
+<a [](mailto:willibayu28@gmail.com) target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/google-gmail.svg" width="34" height="34" alt="gmail" /></a>
 <a href="https://www.instagram.com/bayunova28/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="34" height="34" alt="Instagram" /></a>
 </p> 
 
