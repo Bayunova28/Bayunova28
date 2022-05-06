@@ -7,7 +7,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 
 ## About
 * 🌍  I'm based in <b>West Java</b>
-* 🧠 I'm learning <b>SparkSQL, PySpark</b> & <b>RSpark</b>
+* 🧠 I'm learning <b>ScalaSpark, SparkSQL, PySpark</b> & <b>RSpark</b>
 * 🧑‍🎓 I'm an <b>Information System Student</b>
 * 🤝  I’m looking to collaborate with any <b>Open - Source data science projects</b>
 
