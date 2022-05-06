@@ -5,7 +5,6 @@ An undergraduate student at Multimedia Nusantara University, Engineering and Inf
 * 🌍  I'm based in <b>West Java</b>
 * 🖥️  See my other portfolios at <b>[Kaggle](http://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu)</b> & <b>[Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)</b>
 * 🧠  I'm learning <b>SparkSQL, PySpark</b> & <b>RSpark</b>
-* ✉️  You can contact me at <b>[willibayu28@gmail.com](mailto:willibayu28@gmail.com)</b>
 
 ### Skills
 
@@ -23,7 +22,8 @@ An undergraduate student at Multimedia Nusantara University, Engineering and Inf
 ### Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="34" height="34" alt="Linkedin" /></a>
+<a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/linkedin-icon.svg" width="34" height="34" alt="Linkedin" /></a>
+<a href="https://www.willibayu28@gmail.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/google-gmail.svg" width="34" height="34" alt="gmail" /></a>
 <a href="https://www.instagram.com/bayunova28/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="34" height="34" alt="Instagram" /></a>
 </p> 
 
