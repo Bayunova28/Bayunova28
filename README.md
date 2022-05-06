@@ -3,7 +3,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 <img src="https://github.com/Bayunova28/Bayunova28/blob/main/giphy.gif" alt="gif" width="1100" height="260">
 
 * 🌍  I'm based in <b>West Java</b>
-* 🧠  I'm learning <b>SparkSQL, PySpark</b> & <b>RSpark</b>
+* 🧠 I'm learning <b>SparkSQL, PySpark</b> & <b>RSpark</b>
 * 🤝  I’m looking to collaborate with any <b>Open - Source data science projects</b>
 
 ### Skills
