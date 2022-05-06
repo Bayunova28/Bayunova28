@@ -3,8 +3,8 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 An undergraduate student at Multimedia Nusantara University, Engineering and Informatics Faculty, majoring on Information System who has strong skills in data mining, mathematics and statistics, machine learning along with data visualization. 
 
 * 🌍  I'm based in <b>West Java</b>
-* 🖥️  See my other portfolios at <b>[Kaggle](http://www.kaggle.com/bayunova), [RPubs](https://rpubs.com/willibrordus_bayu)</b> & <b>[Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)</b>
 * 🧠  I'm learning <b>SparkSQL, PySpark</b> & <b>RSpark</b>
+* 🤝  I'm open to collaborating on <b>data science</b> & <b>website development</b> projects  
 
 ### Skills
 
@@ -15,7 +15,7 @@ An undergraduate student at Multimedia Nusantara University, Engineering and Inf
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://databricks.com/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/simple-icons/databricks.svg?color=red" width="36" height="36" alt="databricks" /></a>  
+<a href="https://databricks.com/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/simple-icons/databricks.svg?color=red" width="36" height="36" alt="Databricks" /></a>  
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/cib/apache-spark.svg?color=%23ff8000" width="36" height="36" alt="apache-spark" /></a>   
 </p>
 
@@ -24,8 +24,15 @@ An undergraduate student at Multimedia Nusantara University, Engineering and Inf
 <p align="left">
 <a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/linkedin-icon.svg" width="34" height="34" alt="Linkedin" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbgvKTdCWGPShLSSJqHlnShrvdsLwvjRXSwVbkFMTmRFfPXWxvndmTgvcSGnndZrXPsRXq" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/google-gmail.svg" width="34" height="34" alt="gmail" /></a>
-<a href="https://www.instagram.com/bayunova28/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/akar-icons/instagram-fill.svg" width="35" height="35" alt="Instagram" /></a>
-</p> 
+<a href="https://www.instagram.com/bayunova28/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="34" height="34" alt="Instagram" /></a>
+</p>
+
+### Portfolios
+<p align="left">
+<a href="http://www.kaggle.com/bayunova" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/cib/kaggle.svg?color=%2300d1ff" width="34" height="34" alt="Kaggle" /></a>
+<a href="https://rpubs.com/willibrordus_bayu" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/r-lang.svg?color=%2300d1ff" width="34" height="34" alt="R" /></a>
+<a href="https://public.tableau.com/app/profile/willibrordus.bayu" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/tableau-icon.svg?color=%2300d1ff" width="34" height="34" alt="Tableau" /></a>
+</p>
 
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
