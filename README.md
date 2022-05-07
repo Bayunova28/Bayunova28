@@ -22,7 +22,8 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/simple-icons/databricks.svg?color=red" width="36" height="36" alt="Databricks" /></a>  
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/cib/apache-spark.svg?color=%23ff8000" width="36" height="36" alt="apache-spark" /></a>   
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/cib/apache-spark.svg?color=%23ff8000" width="36" height="36" alt="apache-spark" /></a>
+<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/scala.svg" width="36" height="36" alt="apache-spark" /></a> 
 </p>
 
 ## Social
