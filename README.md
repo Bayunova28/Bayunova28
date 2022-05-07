@@ -30,16 +30,16 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 
 ## Social
 <p align="left">
-<a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/linkedin-icon.svg" width="34" height="34" alt="Linkedin" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbgvKTdCWGPShLSSJqHlnShrvdsLwvjRXSwVbkFMTmRFfPXWxvndmTgvcSGnndZrXPsRXq" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/google-gmail.svg" width="34" height="34" alt="gmail" /></a>
-<a href="https://www.instagram.com/bayunova28/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="34" height="34" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/linkedin-icon.svg" width="36" height="36" alt="Linkedin" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbgvKTdCWGPShLSSJqHlnShrvdsLwvjRXSwVbkFMTmRFfPXWxvndmTgvcSGnndZrXPsRXq" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/google-gmail.svg" width="36" height="36" alt="gmail" /></a>
+<a href="https://www.instagram.com/bayunova28/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" height="36" alt="Instagram" /></a>
 </p>
 
 ## Portfolio
 <p align="left">
-<a href="http://www.kaggle.com/bayunova" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/cib/kaggle.svg?color=%2300d1ff" width="34" height="34" alt="Kaggle" /></a>
-<a href="https://rpubs.com/willibrordus_bayu" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/r-lang.svg?color=%2300d1ff" width="34" height="34" alt="R" /></a>
-<a href="https://public.tableau.com/app/profile/willibrordus.bayu" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/tableau-icon.svg?color=%2300d1ff" width="34" height="34" alt="Tableau" /></a>
+<a href="http://www.kaggle.com/bayunova" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/cib/kaggle.svg?color=%2300d1ff" width="36" height="36" alt="Kaggle" /></a>
+<a href="https://rpubs.com/willibrordus_bayu" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/r-lang.svg?color=%2300d1ff" width="36" height="36" alt="R" /></a>
+<a href="https://public.tableau.com/app/profile/willibrordus.bayu" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/tableau-icon.svg?color=%2300d1ff" width="36" height="36" alt="Tableau" /></a>
 </p>
 
 <details>
