@@ -15,10 +15,12 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 
 ## Skill
 <p align="left">
+<a href="https://docs.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="36" height="36" alt="power-bi" /></a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/file-icons/rstudio.svg?color=%23728fce" width="36" height="36" alt="R" /></a>
 <a href="https://docs.microsoft.com/en-us/sql/sql-server/what-s-new-in-sql-server-2016?view=sql-server-ver15" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="36" height="36" alt="SQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/fontisto/mysql.svg?color=%231f00ff" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.owox.com/blog/use-cases/google-data-studio-tutorial/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/google-data-studio.svg" width="36" height="36" alt="google-data-studio" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/simple-icons/databricks.svg?color=red" width="36" height="36" alt="Databricks" /></a>  
