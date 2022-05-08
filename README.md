@@ -13,7 +13,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 * 🎓 I'm an <b>Information System Student</b>
 * 🤝  I’m looking to collaborate with any <b>Open - Source data science projects</b>
 
-## Skill
+## Skills
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/file-icons/rstudio.svg?color=%23728fce" width="36" height="36" alt="R" /></a>
@@ -28,14 +28,14 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/scala.svg" width="36" height="36" alt="apache-spark" /></a> 
 </p>
 
-## Social
+## Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/linkedin-icon.svg" width="36" height="36" alt="Linkedin" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbgvKTdCWGPShLSSJqHlnShrvdsLwvjRXSwVbkFMTmRFfPXWxvndmTgvcSGnndZrXPsRXq" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/google-gmail.svg" width="36" height="36" alt="gmail" /></a>
 <a href="https://www.instagram.com/bayunova28/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" height="36" alt="Instagram" /></a>
 </p>
 
-## Portfolio
+## Portfolios
 <p align="left">
 <a href="http://www.kaggle.com/bayunova" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/cib/kaggle.svg?color=%2300d1ff" width="36" height="36" alt="Kaggle" /></a>
 <a href="https://rpubs.com/willibrordus_bayu" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/r-lang.svg?color=%2300d1ff" width="36" height="36" alt="R" /></a>
