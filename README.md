@@ -1,7 +1,7 @@
 Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, My Name is Willibrordus Bayu 
 ================================================
 <p align="center">
-<img src="https://github.com/Bayunova28/Bayunova28/blob/main/giphy.gif" alt="gif" width="750" height="300">
+<img src="https://github.com/Bayunova28/Bayunova28/blob/main/giphy.gif" alt="gif" width="750" height="350">
 <p>  
 
 <p align="center">
