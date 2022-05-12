@@ -9,7 +9,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 
 ## About
 * 🌍  I'm based in <b>West Java</b>
-* 🧠 I'm learning <b>ScalaSpark, SparkSQL, PySpark</b> & <b>RSpark</b>
+* 🧠 I'm learning <b>ScalaSpark, SparkSQL, PySpark, RSpark</b> & <b>MongoDB</b>
 * 🎓 I'm an <b>Information System Student</b>
 * 🤝  I’m looking to collaborate with any <b>Open - Source data science projects</b>
 
@@ -25,7 +25,8 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://databricks.com/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/simple-icons/databricks.svg?color=red" width="36" height="36" alt="Databricks" /></a>  
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/cib/apache-spark.svg?color=%23ff8000" width="36" height="36" alt="apache-spark" /></a>
-<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/scala.svg" width="36" height="36" alt="apache-spark" /></a> 
+<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/scala.svg" width="36" height="36" alt="apache-spark" /></a>
+<a href="https://www.mongodb.com/docs/manual/?_ga=2.28729596.1946499414.1652353057-1403993546.1652353057" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/mongodb.svg?height=35" alt="apache-spark" /></a>   
 </p>
 
 ## Socials
