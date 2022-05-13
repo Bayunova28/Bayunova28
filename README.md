@@ -5,7 +5,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 <p>  
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=6000&color=27C800&width=800&lines=Data+Mining+%7C+Machine+Learning+%7C+Statistics+%7C+Data+Visualization;&center=true&width=850&height=30"></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=6000&color=27C800&width=800&lines=Data+Mining+%7C+Machine+Learning+%7C+Statistics+%7C+Data+Visualization;&center=true&width=850&height=35"></a></p>
 
 ## About
 * 🌍  I'm based in <b>West Java</b>
