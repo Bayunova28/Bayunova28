@@ -32,7 +32,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 ## Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/willibrordusbayu/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/linkedin-icon.svg" width="36" height="36" alt="Linkedin" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbgvKTdCWGPShLSSJqHlnShrvdsLwvjRXSwVbkFMTmRFfPXWxvndmTgvcSGnndZrXPsRXq" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/google-gmail.svg" width="36" height="36" alt="gmail" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDrRqCJxRTsFGXKSmqGqxfpcMsFGZphFlwhkGlqJqtwlnfczKHZdHcVTxDHKjmzFHTnPpJV" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/google-gmail.svg" width="36" height="36" alt="gmail" /></a>
 <a href="https://www.instagram.com/bayunova28/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" height="36" alt="Instagram" /></a>
 </p>
 
