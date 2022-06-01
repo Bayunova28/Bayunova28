@@ -1,4 +1,4 @@
-Hi, My Name is Willibrordus Bayu 
+Hi👋, My Name is Willibrordus Bayu 
 ================================================
 <p align="center">
 <img src="https://github.com/Bayunova28/Bayunova28/blob/main/giphy.gif" alt="gif" width="750" height="350">
