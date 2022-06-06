@@ -1,11 +1,11 @@
 Hi👋, My Name is Willibrordus Bayu 
 ================================================
 <p align="center">
-<img src="https://github.com/Bayunova28/Bayunova28/blob/main/giphy.gif" alt="gif" width="750" height="350">
+<img src="https://github.com/Bayunova28/Bayunova28/blob/main/cover.gif" alt="gif" width="750" height="400">
 <p>  
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=7000&color=27C800&width=800&lines=Data+Mining+%7C+Machine+Learning+%7C+Statistics+%7C+Data+Visualization;&center=true&width=850&height=35"></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=9000&color=27C800&width=800&lines=Data+Mining+%7C+Machine+Learning+%7C+Statistics+%7C+Data+Visualization;&center=true&width=850&height=35"></a></p>
 
 ## About
 * 🌍  I'm based in <b>West Java</b>
