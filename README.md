@@ -1,7 +1,7 @@
 Hi👋, My Name is Willibrordus Bayu 
 ================================================
 <p align="center">
-<img src="https://github.com/Bayunova28/Bayunova28/blob/main/cover.gif" alt="gif" width="750" height="400">
+<img src="https://github.com/Bayunova28/Bayunova28/blob/main/cover.gif" alt="gif" width="750" height="350">
 <p>  
 
 <p align="center">
