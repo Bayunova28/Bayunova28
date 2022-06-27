@@ -9,7 +9,7 @@ Hi👋, My Name is Willibrordus Bayu
 
 ## About
 * 🌍  I'm based in <b>West Java</b>
-* 🧠 I'm learning <b>Databricks Platform, MATLAB & Microsoft Azure Cloud Services</b>
+* 🧠 I'm learning <b>Apache Spark</b>
 * 🎓 I'm an <b>Information System Student</b>
 * 🤝  I’m looking to collaborate with any <b>Open - Source data science projects</b>
 
@@ -23,13 +23,11 @@ Hi👋, My Name is Willibrordus Bayu
 <a href="https://docs.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="36" height="36" alt="power-bi" /></a>   
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://databricks.com/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/simple-icons/databricks.svg?color=red" width="36" height="36" alt="Databricks" /></a>  
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/cib/apache-spark.svg?color=%23ff8000" width="36" height="36" alt="apache-spark" /></a>
 <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/scala.svg" width="36" height="36" alt="apache-spark" /></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/vscode-icons/file-type-matlab.svg?height=40" alt="apache-spark" /></a>
 <a href="https://www.sas.com/en_id/home.html" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/file-icons/sas.svg?color=%23008ae6" width="35" height="35" alt="apache-spark" /></a>
-<a href="https://docs.microsoft.com/en-us/azure/?product=popular" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/logos/microsoft-azure.svg" width="35" height="35" alt="apache-spark" /></a>
-</p>
+</p><br>
+<br>
 
 ## Socials
 <p align="left">
