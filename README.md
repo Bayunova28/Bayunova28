@@ -9,7 +9,7 @@ Hi👋, My Name is Willibrordus Bayu
 
 ## About
 * 🌍  I'm based in <b>West Java</b>
-* 🧠 I'm learning <b>Apache Spark</b>
+* 🧠 I'm learning <b>SAS & MATLAB</b>
 * 🎓 I'm an <b>Information System Student</b>
 * 🤝  I’m looking to collaborate with any <b>Open - Source data science projects</b>
 
