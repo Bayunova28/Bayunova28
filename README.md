@@ -24,7 +24,6 @@ Hi👋, My Name is Willibrordus Bayu
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.sas.com/en_id/home.html" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/file-icons/sas.svg?color=%23008ae6" width="35" height="35" alt="sas" /></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img align="left" src="https://api.iconify.design/vscode-icons/file-type-matlab.svg" width="45" height="40" alt="matlab" /></a>
 </p><br>
 <br>
 
