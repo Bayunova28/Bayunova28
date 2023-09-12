@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data science from Indonesia</h3>
 <br>
 
-- 🌱 I’m currently learning **Frontend Development and Backend**
+- 🌱 I’m currently learning **Frontend and Backend Development**
 - 💬 Ask me about **Python, SQL, R, HTML, CSS, Machine Learning, Deep Learning, and Natural Language Processing (NLP)**
 - ⚡ Fun fact **I am very excited to learn new things and thrive them in challenging environment**
 - 👨‍💻 All of my projects are available at **[kaggle](https://www.kaggle.com/bayunova)**, **[RPubs](https://rpubs.com/willibrordus_bayu)**, and **[Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)**
