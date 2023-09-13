@@ -11,6 +11,16 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="40" alt="keras logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="40" alt="power bi logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="40" alt="tableau logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" height="40" alt="xampp logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
