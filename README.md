@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at **[Kaggle](https://www.kaggle.com/bayunova),** **[RPubs](https://rpubs.com/willibrordus_bayu),** **& [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)** 
 <h2 align="left">Languages & Tools</h2>
 
-<div style="text-align: justify;">
+<div style="align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="40" alt="keras logo"  />
