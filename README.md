@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Frontend & Backend Development**
 - 💬 Ask me about **Python, SQL, R, HTML, CSS, Machine Learning, Deep Learning, & Natural Language Processing (NLP)**
 - ⚡ Fun fact **I'm very excited to learn new things and thrive them in challenging environment**
-- 👨‍💻 All of my projects are available at **[Kaggle](https://www.kaggle.com/bayunova),** **[RPubs](https://rpubs.com/willibrordus_bayu),** **& [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)** <br>
+- 👨‍💻 All of my projects are available at **[Kaggle](https://www.kaggle.com/bayunova),** **[RPubs](https://rpubs.com/willibrordus_bayu),** **& [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)** 
 <h2 align="left">Languages & Tools</h2>
 
 <div align="left">
@@ -37,9 +37,8 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayunova28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayunova28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bayunova28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="167" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayunova28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="167" alt="languages graph"  />
 </div>
