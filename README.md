@@ -2,7 +2,6 @@
 <h3 align="center">A passionate data science from Indonesia</h3>
 <br>
 
-- 🔭 I’m currently working as **Business Intelligence Developer** on **IT Services and Consulting** 
 - 🌱 I’m currently learning **Frontend & Backend Development**
 - 💬 Ask me about **Python, SQL, R, HTML, CSS, Machine Learning, Deep Learning, & Natural Language Processing (NLP)**
 - ⚡ Fun fact **I'm very excited to learn new things and thrive them in challenging environment**
