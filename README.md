@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Frontend & Backend Development**
 - 💬 Ask me about **Python, SQL, R, HTML, CSS, Machine Learning, Deep Learning, & Natural Language Processing (NLP)**
-- ⚡ Fun fact **I'm very excited to learn new things and thrive them in challenging environment**
+- 🔥 Fun fact **I'm very excited to learn new things and thrive them in challenging environment**
 - 👨‍💻 All of my projects are available at **[Kaggle](https://www.kaggle.com/bayunova),** **[RPubs](https://rpubs.com/willibrordus_bayu),** **& [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)** 
 <h2 align="left">Languages & Tools</h2>
 <div align="center">
