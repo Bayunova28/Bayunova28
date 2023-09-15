@@ -47,6 +47,10 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayunova28&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="167" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayunova28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="167" alt="languages graph"  />
+  <a href="https://github.com/bayunova28">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api?username=bayunova28&show_icons=true&theme=radical" alt="Your GitHub Stats">
+  </a>
+  <a href="https://github.com/bayunova28">
+    <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayunova28&layout=compact&theme=radical" alt="Top Languages">
+  </a>
 </div>
