@@ -48,9 +48,9 @@
 <br>
 <div align="center">
   <a href="https://github.com/bayunova28">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api?username=bayunova28&show_icons=true&theme=radical" alt="Your GitHub Stats">
+    <img width="61%" src="https://github-readme-stats.vercel.app/api?username=bayunova28&show_icons=true&theme=radical" alt="Your GitHub Stats">
   </a>
   <a href="https://github.com/bayunova28">
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayunova28&layout=compact&theme=radical" alt="Top Languages">
+    <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayunova28&layout=compact&theme=radical" alt="Top Languages">
   </a>
 </div>
