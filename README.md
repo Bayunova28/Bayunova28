@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Willibrordus Bayu Nova Pramudya</h1>
 <h3 align="center">A passionate data science from Indonesia</h3>
-<br>
+
+<h2 align="justify">About</h2>
 
 - 🌱 I’m currently learning **Frontend & Backend Development**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, & Natural Language Processing (NLP), SQL, R, HTML, CSS**
 - 🔥 Fun fact **I'm very excited to learn new things and thrive them in challenging environment**
-- 👨‍💻 All of my projects are available at **[Kaggle](https://www.kaggle.com/bayunova),** **[RPubs](https://rpubs.com/willibrordus_bayu),** **& [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)** 
+- 👨‍💻 All of my projects are available at **[Kaggle](https://www.kaggle.com/bayunova),** **[RPubs](https://rpubs.com/willibrordus_bayu),** **& [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)**
+   
 <h2 align="left">Languages & Tools</h2>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
