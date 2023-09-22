@@ -8,7 +8,7 @@
 - 🔥 Fun fact **I'm very excited to learn new things and thrive them in challenging environment**
 - 👨‍💻 All of my projects are available at **[Kaggle](https://www.kaggle.com/bayunova),** **[RPubs](https://rpubs.com/willibrordus_bayu),** **& [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)**
    
-## 💻 Languages & Frameworks
+## 💻 Languages & Framework
 <div align="center">
    
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
