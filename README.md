@@ -3,7 +3,7 @@
 
 ## About
 
-- 🌱 I’m currently learning **Large Language Models (LLM) usage in Natural Language Processing (NLP)**
+- 🌱 I’m currently learning **🔗Large Language Models (LLM) and 🤗Hugging Face**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, SQL, R, HTML, & CSS**
 - 🔥 Fun fact **he is very excited to learn new things and thrive them in challenging environment**
 - 👨‍💻 All of my projects are available at **[Kaggle](https://www.kaggle.com/bayunova),** **[RPubs](https://rpubs.com/willibrordus_bayu),** **& [Tableau Public](https://public.tableau.com/app/profile/willibrordus.bayu)**
