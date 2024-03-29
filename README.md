@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **🔗Large Language Models (LLM) and 🤗Hugging Face**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, SQL, R, HTML, & CSS**
 - 🔥 Fun fact **he is very excited to learn new things and thrive them in challenging environment**
-- 👨‍💻 All of my projects are available at **[Kaggle](https://www.kaggle.com/bayunova),** **[RPubs](https://rpubs.com/willibrordus_bayu),** **& [NovyPro](https://www.novypro.com/profile_projects/willibrordusbayu)**
+- 👨‍💻 All of my portfolios are available at **[Kaggle](https://www.kaggle.com/bayunova),** **[RPubs](https://rpubs.com/willibrordus_bayu),** **& [NovyPro](https://www.novypro.com/profile_projects/willibrordusbayu)**
    
 ## 💻 Languages & Tools
 <div align="center">
