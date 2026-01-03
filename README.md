@@ -38,11 +38,3 @@
    ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
    ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 </div>
-
-## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/bayunova28">
-    <img width="425" src="https://github-readme-stats.vercel.app/api?username=bayunova28&show_icons=true&theme=dracula" alt="Your GitHub Stats">
-    <img width="324" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayunova28&layout=compact&theme=dracula" alt="Top Languages">
-  </a>
-</div>
